@@ -1,0 +1,3 @@
+[submodule "sdk/software/examples/supervisor"]
+	path = sdk/software/examples/supervisor
+	url = https://gitee.com/loongson-edu/supervisor.git

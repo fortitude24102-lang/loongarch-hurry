@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+*.bit binary
+*.bin binary
+*.dcp binary
+*.elf binary
+*.fst binary
+*.mif binary
+*.pb binary
+*.rpx binary
+*.wdb binary

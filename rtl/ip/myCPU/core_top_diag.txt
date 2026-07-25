@@ -1,0 +1,3 @@
+# core_top CT-HB needs fix — DBG insert broke $display structure.
+# Remove lines 162-170 and restore line 161→171 continuity.
+# Ready to run once core_top is fixed.
